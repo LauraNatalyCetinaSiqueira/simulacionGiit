@@ -7,5 +7,7 @@ public class Compartir {
 	public void comenzarComer() {
 		
 		System.out.println("El usuario a comenzado a " + comer);
+		
+		int numero = 1;
 	}
 }
